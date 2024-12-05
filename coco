@@ -1,6 +1,12 @@
 <!DOCTYPE html>
-  <html>
+<html lang="fr">
   <head>
-   <title>How to create a Website</title>
-    <head>
-  </html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to create a Website</title>
+  </head>
+  <body>
+    <h1>Welcome to my Website!</h1>
+    <p>This is a simple website created with HTML.</p>
+  </body>
+</html>
